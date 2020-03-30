@@ -35,5 +35,5 @@ As organizações não governamentais <b>(ONGs)</b> são entidades privadas da s
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
