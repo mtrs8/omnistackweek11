@@ -37,6 +37,6 @@ As organizações não governamentais <b>(ONGs)</b> são entidades privadas da s
 
 A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
-### :mortar_board: Créditos pelo modelo do README.md
+### &copy; Créditos pelo modelo do README.md
 
 [João Carli](https://github.com/fl4m3x)
