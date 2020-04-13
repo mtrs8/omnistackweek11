@@ -1,4 +1,4 @@
-.new-incident {
+.new-incident-container {
     width: 100%;
     max-width: 1120px;
     height: 100vh;
@@ -8,7 +8,7 @@
     justify-content: center;
 }
 
-.new-incident .content {
+.new-incident-container .content {
     width: 100%;
     padding: 96px;
     background: #f0f0f5;
@@ -20,9 +20,9 @@
     align-items: center;
 }
 
-.new-incident .content section {
+.new-incident-container .content section {
     width: 100%;
-    max-width: 380;
+    max-width: 380px;
 }
 
 .new-incident-container .content section h1 {
